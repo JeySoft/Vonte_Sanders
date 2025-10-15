@@ -1,6 +1,6 @@
 # Vonte_Sanders
 
-My name is Vonte, and I am an emerging data analyst with a strong enthusiasm for turning information into actionable insight. Since beginning my analytics journey in May 2021, I’ve developed a deep appreciation for data exploration, programming, and the analytical techniques that help solve real-world problems. I take pride in approaching challenges with curiosity and persistence, always striving to find innovative solutions through data.
+My name is Vonte, and I am an emerging data analyst with a strong enthusiasm for turning information into actionable insight. Since beginning my analytics journey in May 2024, I’ve developed a deep appreciation for data exploration, programming, and the analytical techniques that help solve real-world problems. I take pride in approaching challenges with curiosity and persistence, always striving to find innovative solutions through data.
 
 My focus is on mastering Python, SQL, and R to effectively analyze data, uncover trends, and support strategic decision-making. I’m especially interested in using data visualization and storytelling to communicate findings in a clear and compelling way.
 
